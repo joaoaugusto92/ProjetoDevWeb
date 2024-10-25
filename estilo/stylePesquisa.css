@@ -1,0 +1,45 @@
+*{ margin: 0;
+padding: 0;}
+
+body{
+    background-color: #020617;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: aliceblue;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    margin-top: 0.5%;
+}
+.searchBar{
+    width: 95%;
+    height: 30px;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    border-radius: 8px;
+    margin-top: 0.8%;
+}
+#titleMov{
+    color: aliceblue;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding-top: 0.6%;
+}
+.indications{
+    padding-top: 0.6%;  
+    margin-left: 0.6%;
+    margin-right: 0.6%;
+    display: flex;
+    color: aliceblue;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
