@@ -15,8 +15,8 @@ a{
     flex-direction: row;
     justify-content: space-between;
     color: aliceblue;
-    padding-left: 2.5%;
-    padding-right: 2.5%;
+    padding-left: 3%;
+    padding-right: 3%;
     margin-top: 0.5%;
 }
 .searchBar{
@@ -39,7 +39,7 @@ a{
     margin-right: 0.6%;
     display: flex;
     color: aliceblue;
-    gap: 15px;
+    gap: 20px;
     flex-wrap: wrap;
     justify-content: center;
 }
